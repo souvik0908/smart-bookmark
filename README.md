@@ -65,5 +65,3 @@ Run npm run dev to start the local development server at http://localhost:3000.
 ---
 
 Once you push this, your GitHub repository will look highly professional and exactly address the assignment's grading criteria. 
-
-Would you like me to guide you through the final step of deploying this project to Ve
