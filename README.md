@@ -53,7 +53,8 @@ Run npm install.
 Create a .env.local file in the root directory and add your Supabase keys:
 
 Code snippet
-```NEXT_PUBLIC_SUPABASE_URL=your_project_url
+```
+NEXT_PUBLIC_SUPABASE_URL=your_project_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_key
 ```
 Run the SQL script provided in the Supabase SQL editor to create the bookmarks table and apply RLS policies.
